@@ -1,19 +1,16 @@
-<h1 align="center">Hi 👋, I'm marcat</h1>
-<h3 align="center">A proud FOSS contributor!</h3>
+<h1 align="center">hola 👋, yo soy marcat</h1>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liquidised&label=Profile%20views&color=0e75b6&style=flat" alt="liquidised" /> </p>
 
 - 🔭 I’m currently working on **NachtGen**
-
+<br/>
 - 🌱 I’m currently learning **Databases, C, and JavaScript**
+<br/>
+- 💬 Ask me about **js, mongodb, skript**
+<br/>
+- 📫 How to reach me **marcat#0350** on Discord!
 
-- 👨‍💻 All of my projects are available at [not yet bb :)](not yet bb :))
-
-- 💬 Ask me about **js, mongodb, skript (not fluent in any of these)**
-
-- 📫 How to reach me **marcatlover@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
