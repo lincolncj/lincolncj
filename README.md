@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liquidised&label=Profile%20views&color=0e75b6&style=flat" alt="liquidised" /> </p>
 
 - 🔭 I’m currently working on **NachtGen**
-<br/>
+
 - 🌱 I’m currently learning **Databases, C, and JavaScript**
-<br/>
+
 - 💬 Ask me about **js, mongodb, skript**
-<br/>
+
 - 📫 How to reach me **marcat#0350** on Discord!
 
 <p align="left">
