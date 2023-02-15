@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liquidised&label=Profile%20views&color=0e75b6&style=flat" alt="liquidised" /> </p>
 
-- 🔭 I’m currently working on **NachtGen**
+- 🔭 I’m currently working on **nothing!**
 
-- 🌱 I’m currently learning **Databases, C, and JavaScript**
+- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **js, mongodb, skript**
+- 💬 Ask me about **js, mongodb, nodejs, expressjs**
 
-- 📫 How to reach me **marcat#0350** on Discord!
+- 📫 How to reach me **marcat#7701** on Discord!
 
 <p align="left">
 </p>
