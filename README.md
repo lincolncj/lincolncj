@@ -1,35 +1,47 @@
-<h1 align="center">marcat 🌙</h1>
-<h3 align="center">A passionate developer from somewhere on Earth</h3>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dxxxxy&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dxxxxy&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
+<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dxxxxy&theme=midnight-purple&hide_border=true" alt="You shouldn't be seeing this. Github Readme Streak Stats failed to load.">
+<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
+<img width="50%" align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=DxxxxY&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true" alt="You shouldn't be seeing this. Activity Graph failed to load.">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=liquidised&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## About Me
+- self taught backend developer.
+- https://marcat.dev/ > coming soon.
+- marcat#1987
 
-<p align="center">
-  🔭 I’m currently working on **SkyblockClassic**<br />
-  🌱 I’m currently learning **Spigot**<br />
-  💬 Ask me about **JavaScript, MongoDB, Node.js, Express.js, Java, Spigot**<br />
-  📫 How to reach me: marcat#1987 on Discord!
-</p>
+<img src="https://komarev.com/ghpvc/?username=liquidised&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Badge">
 
-<h3 align="center">Languages and Tools:</h3>
+## Languages
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" title="Node.js" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" title="Postman" />
-</p>
+### Backend
+![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liquidised&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+## OSs
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liquidised&theme=dark" alt="GitHub Streak" />
-</p>
+## IDEs
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-<h3 align="center">Danke für Ihren Besuch!</h3>
-<p align="center">Schlafen Sie gut und träumen Sie süß! 💤</p>
+## Runtimes
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/JVM-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
+
+## Services
+![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
+
+## Cloud
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+## Build tools
+![](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
