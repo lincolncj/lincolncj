@@ -1,46 +1,26 @@
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=liquidised&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=liquidised&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
-<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=liquidised&theme=midnight-purple&hide_border=true" alt="You shouldn't be seeing this. Github Readme Streak Stats failed to load.">
-<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=liquidised&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true" alt="You shouldn't be seeing this. Activity Graph failed to load.">
+![](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B;I'm+marcat)
 
-## About Me
-- self taught backend developer.
-- https://marcat.dev/ > coming soon.
-- marcat#1987
+#### Social Media
 
-<img src="https://komarev.com/ghpvc/?username=liquidised&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Badge">
+Discord: marcat#1987
+[![GitHub: liquidised](https://img.shields.io/github/followers/liquidised?label=follow&style=social)](https://github.com/liquidised)
 
-## Languages
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=liquidised" alt="liquidised" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=liquidised" alt="visitor badge"/>
+</p>
 
-### Backend
-![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### Github Statistics
 
-## OSs
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Github Metrics](https://metrics.lecoq.io/liquidised?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
 
-## IDEs
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=liquidised&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=liquidised" />
+</p>
 
-## Runtimes
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/JVM-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
+<p align="center">
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liquidised&layout=compact" />
+</p>
 
-## Services
-![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-
-## Cloud
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-## Build tools
-![](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=liquidised&theme=minimal)
