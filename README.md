@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  🔭 I’m currently working on <strong>nothing!</strong><br />
-  🌱 I’m currently learning <strong>ReactJS</strong><br />
-  💬 Ask me about <strong>JavaScript, MongoDB, Node.js, Express.js</strong><br />
+  🔭 I’m currently working on <strong>SkyblockClassic</strong><br />
+  🌱 I’m currently learning <strong>Spigot</strong><br />
+  💬 Ask me about <strong>JavaScript, MongoDB, Node.js, Express.js, Java, Spigot</strong><br />
   📫 How to reach me: marcat#7701 on Discord!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
