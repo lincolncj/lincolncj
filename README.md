@@ -1,7 +1,5 @@
 ## About Me
 - self taught backend developer.
-- https://marcat.dev/ > coming soon.
-- discord: marcatdev
 
 <img src="https://komarev.com/ghpvc/?username=liquidised&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Badge">
 
